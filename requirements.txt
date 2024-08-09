@@ -1,0 +1,4 @@
+pandas
+numpy 
+seaborn
+# -e .  #when we try to install requirements.txt i want that setup.py should also be triggered
