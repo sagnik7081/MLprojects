@@ -5,4 +5,5 @@ matplotlib
 scikit-learn
 catboost
 xgboost
+dill
 # -e .  #when we try to install requirements.txt i want that setup.py should also be triggered
